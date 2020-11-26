@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 26, 2020, 9:16:09 PM
+    Author     : Said
+*/
+.button:hover {
+    -fx-background-color: #4cd137;
+}
+.button {
+    -fx-background-color: #4cf240;
+}
+
+.box {
+    -fx-background-color: rgba(0, 0, 250, 0.5);
+}
